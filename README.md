@@ -15,8 +15,7 @@ sql Developer
 - 🔧 Expert : Database , Sports
 
 ### I code in
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/oracle-logo.png" />
-  <img width="64" height="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-sql-computer-programming-flaticons-lineal-color-flat-icons.png" alt="external-sql-computer-programming-flaticons-lineal-color-flat-icons"/> <img width="64" height="64" src="https://img.icons8.com/fluency/64/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/><img width="64" height="64" src="https://img.icons8.com/plasticine/100/oracle-application-express.png" alt="oracle-application-express"/> 
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/oracle-logo.png" /><img width="64" height="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-sql-computer-programming-flaticons-lineal-color-flat-icons.png" alt="external-sql-computer-programming-flaticons-lineal-color-flat-icons"/> <img width="64" height="64" src="https://img.icons8.com/fluency/64/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/><img width="64" height="64" src="https://img.icons8.com/plasticine/100/oracle-application-express.png" alt="oracle-application-express"/> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 
 ### IDE and Tools I Use
