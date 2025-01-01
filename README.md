@@ -4,7 +4,7 @@ sql Developer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
  -🔭 Here's my portfolio<!-- -(https://hajeeth.github.io/Ahamed_Riz_Portfolio)                                                  -->
-- 🌱 I’m currently working on Database management technology 
+- 🌱 I’m currently Learning on Database management technology 
 - 👯 I’m looking to collaborate on Building low code software Development
 - 🤔 I’m looking for help with Placements in MNC's 
 - 💬 Ask me about Tech
